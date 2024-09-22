@@ -1,6 +1,6 @@
 'use client';
 
-import { IconType } from "../../../../../../../AppData/Local/deno/npm/registry.npmjs.org/react-icons/5.3.0/lib/iconBase";
+import { IconType } from "react-icons"; // Updated import path for react-icons
 
 export interface Link {
   name: string;
